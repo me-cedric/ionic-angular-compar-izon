@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-compar-izon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
